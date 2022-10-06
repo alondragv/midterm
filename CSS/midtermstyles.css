@@ -14,7 +14,10 @@ header{
     background-color: pink;
 }
 .hero img{
-    width: 100%
+    width: 50%
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
 }
 p{
     font-family: Arial;

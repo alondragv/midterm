@@ -15,8 +15,8 @@ header{
 }
 .hero img{
     width: 50%
-    margin-right: auto;
     margin-left: auto;
+    margin-right: auto;
     display: block;
 }
 p{
